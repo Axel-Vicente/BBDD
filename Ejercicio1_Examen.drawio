@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T10:30:26.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4YyiuWfZiLcrYl6dDChc" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T10:30:38.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="UAvyMyf2Ftk08six_Gtp" version="13.9.1" type="github">
   <diagram id="u0rU5J1bADTjxajE3t6j" name="Page-1">
     <mxGraphModel dx="981" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
         <mxCell id="oVFu0z2K6xMMtM1_5Rjc-1" value="AEROPUERTO" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oVFu0z2K6xMMtM1_5Rjc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oVFu0z2K6xMMtM1_5Rjc-2" target="oVFu0z2K6xMMtM1_5Rjc-1">
+        <mxCell id="oVFu0z2K6xMMtM1_5Rjc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oVFu0z2K6xMMtM1_5Rjc-2" target="oVFu0z2K6xMMtM1_5Rjc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oVFu0z2K6xMMtM1_5Rjc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oVFu0z2K6xMMtM1_5Rjc-2" target="oVFu0z2K6xMMtM1_5Rjc-6">
+        <mxCell id="oVFu0z2K6xMMtM1_5Rjc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oVFu0z2K6xMMtM1_5Rjc-2" target="oVFu0z2K6xMMtM1_5Rjc-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVFu0z2K6xMMtM1_5Rjc-2" value="TIENE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
